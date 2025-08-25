@@ -7,15 +7,16 @@
     Jie Liu<sup>1</sup>&emsp;
     Jie Tang<sup>1</sup>&emsp;
     Gangshan Wu<sup>1</sup>&emsp;
-    Beiqi Chen<sup>2</sup>&emsp;
-    Jianhuang Lai<sup>3</sup>&emsp;
-    Guangcong Wang<sup>4</sup>
+    Beiqi Chen<sup>3</sup>&emsp;
+    Jianhuang Lai<sup>4</sup>&emsp;
+    Guangcong Wang<sup>2</sup>
 </div>
 <div style="margin-top: 1em;">
     <sup>1</sup>Nanjing University,&emsp;
-    <sup>2</sup>Harbin Institute of Technology,&emsp;
-    <sup>3</sup>Sun Yat-sen University,&emsp;
-    <sup>4</sup>Great Bay University&emsp;
+    <sup>2</sup>Great Bay University,&emsp;
+    <sup>3</sup>Harbin Institute of Technology,&emsp;
+    <sup>4</sup>Sun Yat-sen University&emsp;
+    
 </div>
 
 
