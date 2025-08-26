@@ -59,6 +59,18 @@
 
 >:baby_chick: **Quantitative result compare to NeRFiller.:**  All evaluation metrics have improved by a large margin compared to baselines.
 
-##  Citation
+## 📚 Citation
 
-If you find this useful for your research, please cite the our paper.
+If you find this useful for your research, please cite our paper:
+
+```bibtex
+@misc{feng2025objfiller3dconsistentmultiview3d,
+  title={ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion Models}, 
+  author={Haitang Feng and Jie Liu and Jie Tang and Gangshan Wu and Beiqi Chen and Jianhuang Lai and Guangcong Wang},
+  year={2025},
+  eprint={2508.18271},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2508.18271}, 
+}
+
