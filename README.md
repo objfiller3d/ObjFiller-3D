@@ -22,7 +22,7 @@
 
 
 
-### :baby_chick: [Project](https://objfiller3d.github.io/) | [YouTube](https://youtu.be/0YZoKtpvqHY) | [arXiv]() 
+### :baby_chick: [Project](https://objfiller3d.github.io/) | [YouTube](https://youtu.be/0YZoKtpvqHY) | [arXiv](https://arxiv.org/abs/2508.18271) 
 <div>
 
 </div>
