@@ -4,22 +4,22 @@
 
 <div>
     Haitang Feng<sup>1</sup>&emsp;
-    Jie Liu<sup>1</sup>&emsp;
+    Jie Liu<sup>1,✉</sup>&emsp;
     Jie Tang<sup>1</sup>&emsp;
     Gangshan Wu<sup>1</sup>&emsp;
     Beiqi Chen<sup>3</sup>&emsp;
     Jianhuang Lai<sup>4</sup>&emsp;
-    Guangcong Wang<sup>2</sup>
+    Guangcong Wang<sup>2,✉</sup>
 </div>
 <div style="margin-top: 1em;">
     <sup>1</sup>Nanjing University,&emsp;
     <sup>2</sup>Great Bay University,&emsp;
     <sup>3</sup>Harbin Institute of Technology,&emsp;
-    <sup>4</sup>Sun Yat-sen University&emsp;
-    
+    <sup>4</sup>Sun Yat-sen University
 </div>
-
-
+<div style="margin-top: 1em;">
+    <sup>✉</sup>Corresponding Authors
+</div>
 
 
 ### :baby_chick: [Project](https://objfiller3d.github.io/) | [YouTube](https://youtu.be/0YZoKtpvqHY) | [arXiv](https://arxiv.org/abs/2508.18271) 
